@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "619843268246",
+    "firebase_url": "https://timemanagement-59954.firebaseio.com",
+    "project_id": "timemanagement-59954",
+    "storage_bucket": "timemanagement-59954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619843268246:android:9a525642c403174e",
+        "android_client_info": {
+          "package_name": "com.sharukhhasan.teammanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619843268246-ne0icalt93qp7innfpntlnbstkhkaeku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sharukhhasan.teammanagement",
+            "certificate_hash": "44E723F761B75573EA3573A946AE92D21192289A"
+          }
+        },
+        {
+          "client_id": "619843268246-9kf6qnsm9v2ll0a0g183l7plv0m86nk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnI94jIjRRKzC1GGYQNTHjjh1Y4HksXIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619843268246-9kf6qnsm9v2ll0a0g183l7plv0m86nk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
